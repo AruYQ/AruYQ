@@ -6,7 +6,9 @@
 - im currently a vocational high school student
   
 
-## Top Skills 
+## Top Skills
+- Can use Cursor
+- C#
 - PHP
 - HTML, CSS and JS
 - SQL
