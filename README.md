@@ -9,9 +9,13 @@ I'm a passionate Computer Science student who loves building applications to sol
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on: **Creating apps to simplify my daily tasks**
 - 🌱 I’m currently studying: **Computer Science**
-- 💡 I'm interested in: **App Development & Software Engineering**
 - 💬 Ask me about: **Flutter, .NET Core MVC, or Python**
 - 📫 How to reach me: You can find me on Instagram or Discord!
+
+### 🎨 Interests & Hobbies
+- 🧠 **Tech & Innovation**: Always excited to see what AI is capable of doing next, watching tech discussions, and keeping up with the latest features in modern and future cars.
+- 🖼️ **Design & Visuals**: I have a huge appreciation for good art, stunning visuals, and great UI/UX design.
+- 📖 **Leisure**: In my free time, I really enjoy reading manga and manhwa!
 
 ---
 
@@ -62,3 +66,11 @@ I'm a passionate Computer Science student who loves building applications to sol
     <img src="https://github-readme-stats.vercel.app/api?username=AruYQ&show_icons=true&theme=radium" alt="Dustin's GitHub Stats" />
   </p>
 -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AruYQ&theme=radium&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AruYQ&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
