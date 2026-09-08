@@ -55,8 +55,10 @@ I'm a passionate Computer Science student who loves building applications to sol
 
 ---
 <!-- 
-  NOTE: Replace 'YOUR_GITHUB_USERNAME' below with your actual GitHub username to show your profile stats!
+  NOTE: Server github-readme-stats sedang down. 
+  Kalau sudah normal, uncomment kode di bawah ini dengan menghapus tanda komentar HTML
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AruYQ&show_icons=true&theme=radium" alt="Dustin's GitHub Stats" />
+  </p>
 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AruYQ&show_icons=true&theme=radium" alt="Dustin's GitHub Stats" />
-</p>
